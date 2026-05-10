@@ -1,0 +1,18 @@
+{
+  "name": "telegram-predik-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram Prediksi dengan fitur Free & Premium",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "author": "Owner Bot",
+  "license": "MIT"
+}
